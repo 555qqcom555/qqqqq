@@ -1,7 +1,7 @@
 package ABC;
 
 public class ABC {
-	private int id;
+	private int id;//中国共产党
 	private String username;
 	private String password;
 	private int sex;
